@@ -5,7 +5,7 @@
 **กลุ่มที่:** 8
 **สมาชิก:**
 
-* 👤 นาย A – จิรวัฒน์ ขุนเงิน Ubuntu Lab (Day 1)
+* 👤 นาย A – จิรวัฒน์ ขุนเงิน Ubuntu Lab
 * 👤 นาย C – ศุภกิตติ์ กุกอง Documentation & Security Checklist
 
 ---
