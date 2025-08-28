@@ -142,7 +142,3 @@ logpath = /var/log/auth.log
 * `logwatch --detail High` ใช้สรุป log รายวัน
 
 ---
-  * ใช้ ELK stack (Elasticsearch + Kibana) สำหรับ Log visualization
-  * สำรอง config เป็น version control (Git)
-
----
